@@ -1,0 +1,13 @@
+INFO:     127.0.0.1:54445 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60510 - "GET /api/zones HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54688 - "GET /api/zones HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65348 - "GET /api/rag/sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65345 - "GET /api/zones HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65347 - "GET /api/routes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65349 - "GET /api/reports HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65346 - "GET /api/metrics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60113 - "GET /api/rag/sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57110 - "GET /api/routes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57109 - "GET /api/zones HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57111 - "GET /api/reports HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57112 - "GET /api/metrics HTTP/1.1" 200 OK
