@@ -9,6 +9,14 @@ Common internship ideas often focus on flood prediction, generic waste segregati
 Primary SDG: SDG 11 - Sustainable Cities and Communities  
 Secondary SDGs: SDG 3 - Good Health and Well-being, SDG 13 - Climate Action
 
+## Live Prototype
+
+Frontend Demo:
+https://frontend-topaz-eight-96.vercel.app/
+
+GitHub Repository:
+https://github.com/ChSaiPrasad007/thermaroute-ai
+
 ## What the demo does
 
 - Scores heat risk for a specific campus zone, weather condition, task, user group, and exposure duration.
